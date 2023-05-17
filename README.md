@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### I am Rohith Rajendran, a 3rd Year Engineering Student 
-[![Rohith's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode stats](https://leetcard.jacoblin.cool/rohrokz?theme=unicorn)
 <!--
 **rohithraj02/rohithraj02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
