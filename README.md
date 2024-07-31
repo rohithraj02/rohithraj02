@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am Rohith Rajendran, a 4th Year Engineering Student 
+### I am Rohith Rajendran, an Enineering graduate.
 ![Leetcode stats](https://leetcard.jacoblin.cool/rohrokz?ext=heatmap)
 <!--
 **rohithraj02/rohithraj02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
